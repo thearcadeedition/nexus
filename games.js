@@ -53,8 +53,8 @@ const GAMES = [
     },
     {
         title: "2Doom",
-        file:  "2doomy.html",
-        img:   "https://chatgpt.com/backend-api/estuary/content?id=file_00000000a2d0722f9ec0dc1a44aecd8c&ts=495237&p=fs&cid=1&sig=5e8f024c44d2cddf184cd2d71bdc05dc613bff900d3e2b12e36a4e0129273c3b&v=0",
+        file:  "2doom.html",
+        img:   "2doom.png",
         tags:  ["action"]
     },
     {
@@ -173,7 +173,7 @@ const GAMES = [
     {
         title: "1",
         file:  "1.html",
-        img:   "https://static.wikia.nocookie.net/2048-game/images/e/e6/Tile_0_4.png/revision/latest/thumbnail/width/360/height/450?cb=20260224130549",
+        img:   "1.png",
         tags:  ["idle"]
     },
     {
