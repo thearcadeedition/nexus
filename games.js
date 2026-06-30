@@ -185,7 +185,7 @@ const GAMES = [
     {
         title: "30 Dollar Haircut",
         file:  "30dollarhaircut.html",
-        img:   "https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-18/256/0739.png,
+        img:   "https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-18/256/0739.png",
         tags:  ["idle"]
     },
     {
